@@ -19,7 +19,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a08c91b-2cf6-4c03-8083-9bc34a2bc3db" name="Default Changelist" comment="" />
+    <list default="true" id="0a08c91b-2cf6-4c03-8083-9bc34a2bc3db" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/application.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/application.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DLRank/PVRankingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DLRank/PVRanking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DLRank/PVRankingTest.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,8 +44,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunManager">
-    <configuration name="PVRankingTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DLRank.PVRankingTest" />
+    <configuration name="PVRanking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DLRank.PVRanking" />
       <module name="DL-Ranking" />
       <extension name="coverage">
         <pattern>
@@ -84,21 +89,21 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1638" height="265" key="GridCell.Tab.0.bottom" timestamp="1600161625971">
+    <state width="1638" height="265" key="GridCell.Tab.0.bottom" timestamp="1600161740736">
       <screen x="0" y="23" width="1680" height="980" />
     </state>
-    <state width="1638" height="265" key="GridCell.Tab.0.bottom/0.23.1680.980@0.23.1680.980" timestamp="1600161625971" />
-    <state width="1638" height="265" key="GridCell.Tab.0.center" timestamp="1600161625971">
+    <state width="1638" height="265" key="GridCell.Tab.0.bottom/0.23.1680.980@0.23.1680.980" timestamp="1600161740736" />
+    <state width="1638" height="265" key="GridCell.Tab.0.center" timestamp="1600161740735">
       <screen x="0" y="23" width="1680" height="980" />
     </state>
-    <state width="1638" height="265" key="GridCell.Tab.0.center/0.23.1680.980@0.23.1680.980" timestamp="1600161625971" />
-    <state width="1638" height="265" key="GridCell.Tab.0.left" timestamp="1600161625970">
+    <state width="1638" height="265" key="GridCell.Tab.0.center/0.23.1680.980@0.23.1680.980" timestamp="1600161740735" />
+    <state width="1638" height="265" key="GridCell.Tab.0.left" timestamp="1600161740735">
       <screen x="0" y="23" width="1680" height="980" />
     </state>
-    <state width="1638" height="265" key="GridCell.Tab.0.left/0.23.1680.980@0.23.1680.980" timestamp="1600161625970" />
-    <state width="1638" height="265" key="GridCell.Tab.0.right" timestamp="1600161625971">
+    <state width="1638" height="265" key="GridCell.Tab.0.left/0.23.1680.980@0.23.1680.980" timestamp="1600161740735" />
+    <state width="1638" height="265" key="GridCell.Tab.0.right" timestamp="1600161740736">
       <screen x="0" y="23" width="1680" height="980" />
     </state>
-    <state width="1638" height="265" key="GridCell.Tab.0.right/0.23.1680.980@0.23.1680.980" timestamp="1600161625971" />
+    <state width="1638" height="265" key="GridCell.Tab.0.right/0.23.1680.980@0.23.1680.980" timestamp="1600161740736" />
   </component>
 </project>

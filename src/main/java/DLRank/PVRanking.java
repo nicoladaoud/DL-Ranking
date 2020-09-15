@@ -23,7 +23,7 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
 
-public class PVRankingTest {
+public class PVRanking {
 
     public static void main(String[] args) throws Exception {
         String query = "cheese pizza in America"; // some dummy query
