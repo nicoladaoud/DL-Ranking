@@ -1,5 +1,5 @@
 # DL-Ranking
-Using Deep Learning methods (paragraph vectors) to Rank indexed lucene documents against a query. For the purpose of this code, we use a RAMDirectory since we are storing a small amount of dummy data. For larger amounts of data, we will use a regular directory instead. For the sake of this example, we are ranking pizza sentences against a search query. Some of the code examples have been used from the cited book below.
+Using Deep Learning methods (paragraph vectors) to Rank indexed lucene documents against a search query. For the purpose of this code, we use a RAMDirectory since we are storing a small amount of dummy data. For larger amounts of data, we will use a regular directory instead. For the sake of this example, we are ranking pizza sentences against a search query. Some of the code examples have been used from the cited book below.
 
 
 
